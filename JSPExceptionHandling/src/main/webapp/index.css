@@ -1,0 +1,23 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: 0px;
+
+
+}
+
+.body1{
+	background-color: gray;
+}
+h1{
+	text-align: center;
+	 padding: 10px; 
+
+}
+div.result{
+	text-align: center;
+	border: 2px solid black;
+	padding:10px;
+	background-color: gray;
+	
+}
